@@ -3,6 +3,7 @@
 // Stream only video (video: true).
 const mediaStreamConstraints = {
   video: true,
+  // audio: true,
 };
 
 // Video element where stream will be placed.
